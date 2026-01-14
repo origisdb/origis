@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussion Discord
+    url: https://discord.gg/SwBDTRpwa7
+    about: Pour les questions générales ou l'aide, rejoignez notre Discord
+  - name: 📖 Documentation
+    url: https://github.com/thogio8/datactl/blob/main/README.md
+    about: Consultez la documentation avant de créer une issue
