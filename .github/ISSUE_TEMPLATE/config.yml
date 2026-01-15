@@ -4,5 +4,5 @@ contact_links:
     url: https://discord.gg/SwBDTRpwa7
     about: Pour les questions générales ou l'aide, rejoignez notre Discord
   - name: 📖 Documentation
-    url: https://github.com/thogio8/datactl/blob/main/README.md
+    url: https://github.com/origisdb/origis#readme
     about: Consultez la documentation avant de créer une issue
