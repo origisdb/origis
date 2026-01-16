@@ -1,0 +1,13 @@
+[package]
+name = "origis"
+version = "0.1.0"
+edition = "2021"
+authors = ["Origis Team"]
+description = "Git-like version control for databases"
+license = "MIT"
+repository = "https://github.com/origisdb/origis"
+readme = "README.md"
+keywords = ["database", "versioning", "git", "cli", "sqlite"]
+categories = ["command-line-utilities", "database"]
+
+[dependencies]
